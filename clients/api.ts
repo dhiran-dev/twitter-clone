@@ -1,3 +1,4 @@
+
 import { GraphQLClient } from "graphql-request";
 
 //if Server side rendered page, then we should not send a token
